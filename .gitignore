@@ -1,0 +1,4 @@
+*.log
+!SampleException.log
+*.png
+**/tmp
